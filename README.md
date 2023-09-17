@@ -1,5 +1,9 @@
 <img src="https://github.com/mrchv/mrchv/blob/main/assets/header.png" alt="Dmitrii Marichev" width="1000"/>
 
+### I'm a QA Engineer
+
+### My CV
+
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
 ![PyTest](https://img.shields.io/badge/-PyTest-090909?style=for-the-badge&logo=pytest&logoColor=097CDB)
@@ -13,6 +17,9 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/mrchv)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mrchv)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/marichev)
+
+[![Mrchv GitHub stats](https://github-readme-stats.vercel.app/api?username=mrchv)](https://github.com/mrchv/github-readme-stats)
+
 <!--
 **mrchv/mrchv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
