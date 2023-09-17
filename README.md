@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/mrchv/mrchv/blob/main/assets/header.png" alt="Dmitrii Marichev" width="180"/>
+<img src="https://github.com/mrchv/mrchv/blob/main/assets/header.png" alt="Dmitrii Marichev" width="1000"/>
 <!--
 **mrchv/mrchv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
