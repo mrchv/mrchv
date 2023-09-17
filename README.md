@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://github.com/mrchv/mrchv/blob/main/assets/header.png" alt="Dmitrii Marichev" width="1000"/>
 
 ### Languages and Tools:
