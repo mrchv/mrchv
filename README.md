@@ -13,6 +13,11 @@ In my downtime, you'll often find me whipping up some delectable sweet treats (p
 ### My CV
 [click to open my CV](https://github.com/mrchv/mrchv/blob/main/assets/CV_Marichev_QA_Engineer.pdf)
 
+### My Project
+[click to view my project](https://github.com/mrchv/python-autotest-exam)
+
+This project involves configuring automated testing for an e-commerce website using Selenium and Pytest, following the PageObject design pattern. It includes features such as adding items to the shopping cart, ensuring test independence from specific data or content, negative testing for element absence, and utilizing class inheritance for improved code management. This project showcases advanced testing practices and tools to ensure the website's reliability and quality.
+
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
