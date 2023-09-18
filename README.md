@@ -21,6 +21,7 @@ In my downtime, you'll often find me whipping up some delectable sweet treats (p
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=E9D54D)
 ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-090909?style=for-the-badge)
 ![Fiddler Everywhere](https://img.shields.io/badge/-Fiddler-090909?style=for-the-badge)
+![Python](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=47C5FB)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mrchv)
