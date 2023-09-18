@@ -11,7 +11,7 @@ While juggling my university studies, I dived headfirst into web development too
 In my downtime, you'll often find me whipping up some delectable sweet treats (pastries are my jam!). I'm also quite the sports enthusiast; tennis and running are my go-to activities. I absolutely love traveling! My favorites? Iceland, Norway, Indonesia, and the good ol' United Kingdom.
 
 ### My CV
-[click to open my CV](https://github.com/mrchv/mrchv/blob/main/CV_Marichev_QA_Engineer.pdf)
+[click to open my CV](https://github.com/mrchv/mrchv/blob/main/assets/CV_Marichev_QA_Engineer.pdf)
 
 
 ### Languages and Tools:
