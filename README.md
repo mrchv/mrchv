@@ -3,7 +3,7 @@
 ### I'm a QA Engineer
 
 ### My CV
-[open link](https://github.com/mrchv/mrchv/blob/main/CV_Marichev_QA_Engineer.pdf)
+[click to open my CV](https://github.com/mrchv/mrchv/blob/main/CV_Marichev_QA_Engineer.pdf)
 
 
 ### Languages and Tools:
