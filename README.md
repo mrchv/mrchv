@@ -2,7 +2,7 @@
 
 ### I'm a QA Engineer
 
-I'm Dmitrii Marichev, IT enthusiast hailing from Sacramento, California. But originally, I'm from Nizhny Novgorod, Russia.
+I'm Dmitrii Marichev, an IT enthusiast hailing from Sacramento, California. But originally, I'm from Nizhny Novgorod, Russia.
 
 Back in 2014, I proudly earned my degree in Finance and Credit from Lobachevsky State University of Nizhny Novgorod (NNSU). While I was at it, I had a knack for physics, mathematics, and programming, so I also attended a lyceum with a strong focus on these subjects.
 
