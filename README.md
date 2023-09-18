@@ -2,6 +2,14 @@
 
 ### I'm a QA Engineer
 
+I'm Dmitrii Marichev, IT enthusiast hailing from Sacramento, California. But originally, I'm from Nizhny Novgorod, Russia.
+
+Back in 2014, I proudly earned my degree in Finance and Credit from Lobachevsky State University of Nizhny Novgorod (NNSU). While I was at it, I had a knack for physics, mathematics, and programming, so I also attended a lyceum with a strong focus on these subjects.
+
+While juggling my university studies, I dived headfirst into web development tools (HTML, CSS, JS), programming (Python), and all things IT. Fast forward a bit, and I've got several years of experience under my belt as a project manager, overseeing numerous projects from mere concepts to full-blown production.
+
+In my downtime, you'll often find me whipping up some delectable sweet treats (pastries are my jam!). I'm also quite the sports enthusiast; tennis and running are my go-to activities. And when wanderlust kicks in, you'll catch me globe-trotting to some fantastic destinations. My favorites? Iceland, Norway, Indonesia, and the good ol' United Kingdom.
+
 ### My CV
 [click to open my CV](https://github.com/mrchv/mrchv/blob/main/CV_Marichev_QA_Engineer.pdf)
 
