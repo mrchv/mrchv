@@ -4,7 +4,7 @@
 
 I'm Dmitrii Marichev, an IT enthusiast hailing from Sacramento, California. But originally, I'm from Nizhny Novgorod, Russia.
 
-Back in 2014, I proudly earned my degree in Finance and Credit from Lobachevsky State University of Nizhny Novgorod (NNSU). While I was at it, I had a knack for physics, mathematics, and programming, so I also attended a lyceum with a strong focus on these subjects.
+Back in 2014, I proudly earned my degree in Finance and Credit from Lobachevsky State University of Nizhny Novgorod (NNSU). In my younger days, I attended a lyceum with a focus on physics, mathematics, and programming.
 
 While juggling my university studies, I dived headfirst into web development tools (HTML, CSS, JS), programming (Python), and all things IT. Fast forward a bit, and I've got several years of experience under my belt as a project manager, overseeing numerous projects from mere concepts to full-blown production.
 
