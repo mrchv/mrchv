@@ -3,6 +3,8 @@
 ### I'm a QA Engineer
 
 ### My CV
+[open link](https://www.openai.com/)
+
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
