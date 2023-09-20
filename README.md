@@ -18,6 +18,10 @@ In my downtime, you'll often find me whipping up some delectable sweet treats (p
 
 This project involves configuring automated testing for an e-commerce website using Selenium and Pytest, following the PageObject design pattern. It includes features such as adding items to the shopping cart, ensuring test independence from specific data or content, negative testing for element absence, and utilizing class inheritance for improved code management. This project showcases advanced testing practices and tools to ensure the website's reliability and quality.
 
+### Testing Documentation:
++ [Checklists](https://github.com/mrchv/mrchv/blob/main/checklists/cheklists.docx)
++ [Test cases](https://github.com/mrchv/mrchv/blob/main/checklists/test%20cases.docx)
++ [Bug reports](https://github.com/mrchv/mrchv/blob/main/checklists/bug%20reports.docx)
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
@@ -38,13 +42,6 @@ This project involves configuring automated testing for an e-commerce website us
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/marichev)
 
 [![Mrchv GitHub stats](https://github-readme-stats.vercel.app/api?username=mrchv)](https://github.com/mrchv/mrchv)
-
-
-### Testing Documentation:
-+ [Checklists](https://github.com/mrchv/mrchv/blob/main/checklists/cheklists.docx)
-+ [Test cases](https://github.com/mrchv/mrchv/blob/main/checklists/test%20cases.docx)
-+ [Bug reports](https://github.com/mrchv/mrchv/blob/main/checklists/bug%20reports.docx)
-
 
 <!--
 **mrchv/mrchv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
