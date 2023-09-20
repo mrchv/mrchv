@@ -39,6 +39,13 @@ This project involves configuring automated testing for an e-commerce website us
 
 [![Mrchv GitHub stats](https://github-readme-stats.vercel.app/api?username=mrchv)](https://github.com/mrchv/mrchv)
 
+
+### Testing Documentation:
++ [Checklists](https://github.com/mrchv/mrchv/blob/main/checklists/cheklists.docx)
++ [Test cases](https://github.com/mrchv/mrchv/blob/main/checklists/test%20cases.docx)
++ [Bug reports](https://github.com/mrchv/mrchv/blob/main/checklists/bug%20reports.docx)
+
+
 <!--
 **mrchv/mrchv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
