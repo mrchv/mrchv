@@ -2,13 +2,11 @@
 
 ### I'm a QA Engineer
 
-I'm Dmitrii Marichev, an IT enthusiast hailing from Sacramento, California. But originally, I'm from Nizhny Novgorod, Russia.
+I am Dmitrii Marichev, an experienced QA Software Engineer with a proven track record at Bausch & Lomb Inc. and Konig Labs, adept in both manual and automated testing processes. Skilled in utilizing various tools including Jira, Postman, Selenium, TestRail, PyCharm, and Chrome Devtools, I meticulously examine project specifications, conduct comprehensive functional and non-functional testing, and efficiently report and track bugs. Proficient in Selenium WebDriver for automation and well-versed in pytest and unittest for creating and executing automated tests, I ensure reliable and repeatable code testing.
 
-Back in 2014, I proudly earned my degree in Finance and Credit from Lobachevsky State University of Nizhny Novgorod (NNSU). In my younger days, I attended a lyceum with a focus on physics, mathematics, and programming.
+Throughout my roles, I have demonstrated strong collaboration skills, fostering an environment of shared knowledge and best practices within cross-functional teams. With efficient project management and a sharp eye for detail, I have successfully overseen the entire development process, ensuring adherence to project schedules and maintaining high-quality standards.
 
-While juggling my university studies, I dived headfirst into web development tools (HTML, CSS, JS), programming (Python), and all things IT. Fast forward a bit, and I've got several years of experience under my belt as a project manager, overseeing numerous projects from mere concepts to full-blown production.
-
-In my downtime, you'll often find me whipping up some delectable sweet treats (pastries are my jam!). I'm also quite the sports enthusiast; tennis and running are my go-to activities. I absolutely love traveling! My favorites? Iceland, Norway, Indonesia, and the good ol' United Kingdom.
+My passion for maintaining product quality and my strong attention to detail equip me to excel in QA software testing roles, ensuring optimal performance and reliability throughout the software development lifecycle. With a proven history of delivering results, I am ready to bring my skills and expertise to your esteemed organization.
 
 ### My CV
 [click to open my CV](https://github.com/mrchv/mrchv/blob/main/assets/CV_Marichev_QA_Engineer.pdf)
@@ -39,7 +37,6 @@ This project involves configuring automated testing for an e-commerce website us
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mrchv)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/mrchv)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mrchv)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/marichev)
 
 [![Mrchv GitHub stats](https://github-readme-stats.vercel.app/api?username=mrchv)](https://github.com/mrchv/mrchv)
 
