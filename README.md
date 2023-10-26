@@ -20,7 +20,7 @@ This project involves configuring automated testing for an e-commerce website us
 + [Checklists](https://github.com/mrchv/mrchv/blob/main/documentation/cheklists.docx)
 + [Test cases](https://github.com/mrchv/mrchv/blob/main/documentation/test%20cases.docx)
 + [Bug reports](https://github.com/mrchv/mrchv/blob/main/documentation/bug%20reports.docx)
-+ [Test Plan](https://github.com/mrchv/mrchv/blob/mrchv/documentation/Test%20Plan%20for%20OhMyWishes%20mobile%20app.pdf)
++ [Test Plan](https://github.com/mrchv/mrchv/blob/main/documentation/Test%20Plan%20for%20OhMyWishes%20mobile%20app.pdf)
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
