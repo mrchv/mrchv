@@ -2,14 +2,26 @@
 
 ### I'm a QA Engineer
 
-I am Dmitrii Marichev, an experienced QA Software Engineer with a proven track record at Bausch & Lomb Inc. and Konig Labs, adept in both manual and automated testing processes. Skilled in utilizing various tools including Jira, Postman, Selenium, TestRail, PyCharm, and Chrome Devtools, I meticulously examine project specifications, conduct comprehensive functional and non-functional testing, and efficiently report and track bugs. Proficient in Selenium WebDriver for automation and well-versed in pytest and unittest for creating and executing automated tests, I ensure reliable and repeatable code testing.
+Over the past 5 years, I have excelled in software testing, specializing in both manual and automated testing. Leveraging a diverse toolset including Jira, Postman, Selenium, TestRail, PyCharm, and Chrome Devtools, I meticulously analyze project specifications, conduct comprehensive functional and non-functional tests, and effectively document and track bugs. Expertise in Selenium WebDriver for automation, coupled with proficiency in pytest and unittest for creating and executing automated tests, ensures consistent and reliable code evaluation.
 
-Throughout my roles, I have demonstrated strong collaboration skills, fostering an environment of shared knowledge and best practices within cross-functional teams. With efficient project management and a sharp eye for detail, I have successfully overseen the entire development process, ensuring adherence to project schedules and maintaining high-quality standards.
+I possess a deep understanding of the industry and have worked across various sectors including technology, financial services, healthcare, and e-commerce.
 
-My passion for maintaining product quality and my strong attention to detail equip me to excel in QA software testing roles, ensuring optimal performance and reliability throughout the software development lifecycle. With a proven history of delivering results, I am ready to bring my skills and expertise to your esteemed organization.
+Skills and Tools Summary:
+Expert in analyzing project specifications and detecting areas for improvement through requirement analysis.
+Extensive experience in thorough functional and non-functional testing within dynamic project requirements.
+Proven track record of meticulous bug reporting and tracking using Jira, ensuring timely resolutions.
+Proficient in Selenium WebDriver for comprehensive automated testing and streamlined test coverage.
+Skilled in pytest and unittest for reliable and repeatable code testing.
+Active participation in daily stand-ups, sprint planning, and effective project coordination.
+Proficiency in Chrome DevTools for server checks and mobile responsiveness verification.
+Experience in TestRail for comprehensive test case management and execution.
+Proficient in API testing via Postman, ensuring accurate server response assessment.
+Expertise in testing mobile applications using Android SDK and TestFlight.
+Strong collaboration with cross-functional teams, contributing to successful product releases.
+Effective management of project schedules, ensuring adherence to feature deadlines and high-quality standards.
 
 ### My CV
-[click to open my CV](https://github.com/mrchv/mrchv/blob/main/assets/CV_Marichev_QA_Engineer.pdf)
+[click to open my CV](https://github.com/mrchv/mrchv/blob/main/assets/Resume_Marichev_QA_Engineer.pdf)
 
 ### My Project
 [click to view my project](https://github.com/mrchv/python-autotest-exam)
