@@ -7,18 +7,18 @@ Over the past 5 years, I have excelled in software testing, specializing in both
 I possess a deep understanding of the industry and have worked across various sectors including technology, financial services, healthcare, and e-commerce.
 
 Skills and Tools Summary:
-Expert in analyzing project specifications and detecting areas for improvement through requirement analysis.
-Extensive experience in thorough functional and non-functional testing within dynamic project requirements.
-Proven track record of meticulous bug reporting and tracking using Jira, ensuring timely resolutions.
-Proficient in Selenium WebDriver for comprehensive automated testing and streamlined test coverage.
-Skilled in pytest and unittest for reliable and repeatable code testing.
-Active participation in daily stand-ups, sprint planning, and effective project coordination.
-Proficiency in Chrome DevTools for server checks and mobile responsiveness verification.
-Experience in TestRail for comprehensive test case management and execution.
-Proficient in API testing via Postman, ensuring accurate server response assessment.
-Expertise in testing mobile applications using Android SDK and TestFlight.
-Strong collaboration with cross-functional teams, contributing to successful product releases.
-Effective management of project schedules, ensuring adherence to feature deadlines and high-quality standards.
++ Expert in analyzing project specifications and detecting areas for improvement through requirement analysis.
++ Extensive experience in thorough functional and non-functional testing within dynamic project requirements.
++ Proven track record of meticulous bug reporting and tracking using Jira, ensuring timely resolutions.
++ Proficient in Selenium WebDriver for comprehensive automated testing and streamlined test coverage.
++ Skilled in pytest and unittest for reliable and repeatable code testing.
++ Active participation in daily stand-ups, sprint planning, and effective project coordination.
++ Proficiency in Chrome DevTools for server checks and mobile responsiveness verification.
++ Experience in TestRail for comprehensive test case management and execution.
++ Proficient in API testing via Postman, ensuring accurate server response assessment.
++ Expertise in testing mobile applications using Android SDK and TestFlight.
++ Strong collaboration with cross-functional teams, contributing to successful product releases.
++ Effective management of project schedules, ensuring adherence to feature deadlines and high-quality standards.
 
 ### My CV
 [click to open my CV](https://github.com/mrchv/mrchv/blob/main/assets/Resume_Marichev_QA_Engineer.pdf)
