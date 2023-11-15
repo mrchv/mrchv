@@ -33,8 +33,8 @@ Web applications (financial, medical, e-commerce, educational), websites, and mo
 ### Work Authorization:
 Authorized to work in the U.S. with no visa sponsorship required.
 
-### My CV
-[click to open my CV](https://github.com/mrchv/mrchv/blob/main/assets/Resume_Marichev_QA_Engineer.pdf)
+### My Resume
+[click to open my Resume](https://github.com/mrchv/mrchv/blob/main/assets/Resume_Marichev_QA_Engineer.pdf)
 
 ### My Project
 [click to view my project](https://github.com/mrchv/python-autotest-exam)
