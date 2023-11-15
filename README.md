@@ -1,24 +1,37 @@
 <img src="https://github.com/mrchv/mrchv/blob/main/assets/header.png" alt="Dmitrii Marichev" width="1000"/>
 
-### I'm a QA Engineer
+### About
 
-Over the past 5 years, I have excelled in software testing, specializing in both manual and automated testing. Leveraging a diverse toolset including Jira, Postman, Selenium, TestRail, PyCharm, and Chrome Devtools, I meticulously analyze project specifications, conduct comprehensive functional and non-functional tests, and effectively document and track bugs. Expertise in Selenium WebDriver for automation, coupled with proficiency in pytest and unittest for creating and executing automated tests, ensures consistent and reliable code evaluation.
+5-years experienced QA Software Engineer with a proven track record in collaborating with cross-functional teams and stakeholders across various locations and time zones. Adept at realistically estimating work efforts considering risks and constraints while working with different development methodologies.Thrives in remote positions with strong time management and excels in multitasking environments with strict deadlines. 
 
-I possess a deep understanding of the industry and have worked across various sectors including technology, financial services, healthcare, and e-commerce.
+### Experience Highlights:
++ Active participation in daily stand-ups and sprint planning for agile development.
++ Proficient problem-solving, ensuring meticulous attention to detail for high software quality.
++ Strong organizational and project management skills in varying project complexities.
++ In-depth understanding of SDLC stages, contributing to comprehensive test plans.
++ Design and implementation of manual and automated test procedures aligned with product criteria.
++ Thorough E2E testing execution with detailed analysis and defect reporting.
++ Collaborative issue resolution with development teams, maintaining high-quality standards.
++ Conducted automated smoke and regression testing for robust software quality assurance.
++ Continuous enhancement of QA processes, providing time and cost estimates for projects.
 
-Skills and Tools Summary:
-+ Expert in analyzing project specifications and detecting areas for improvement through requirement analysis.
-+ Extensive experience in thorough functional and non-functional testing within dynamic project requirements.
-+ Proven track record of meticulous bug reporting and tracking using Jira, ensuring timely resolutions.
-+ Proficient in Selenium WebDriver for comprehensive automated testing and streamlined test coverage.
-+ Skilled in pytest and unittest for reliable and repeatable code testing.
-+ Active participation in daily stand-ups, sprint planning, and effective project coordination.
-+ Proficiency in Chrome DevTools for server checks and mobile responsiveness verification.
-+ Experience in TestRail for comprehensive test case management and execution.
-+ Proficient in API testing via Postman, ensuring accurate server response assessment.
-+ Expertise in testing mobile applications using Android SDK and TestFlight.
-+ Strong collaboration with cross-functional teams, contributing to successful product releases.
-+ Effective management of project schedules, ensuring adherence to feature deadlines and high-quality standards.
+### Skills:
++ Software Testing: Experience in functional, integration, regression, and smoke testing.
++ API Testing: Expert in Postman for accurate server response assessment also with handling JSON and XML files.
++ Database Testing: Skilled in SQL databases (MS SQL Server, MongoDB).
++ Agile Tools: Familiarity with Jira, Trello, Confluence, and Azure Boards.
++ Web Technologies: Expertise in SaaS, web-based applications, CSS, and HTML.
++ Version Control: Experienced in Git.
++ Test Management: Proficient in TestRail and TestLink.
++ Performance Testing: Knowledge of JMeter.
++ Mobile Testing: Familiarity with XCode and Android Studio for both native and hybrid versions.
++ Automation Testing: Experienced in Selenium WebDriver with Python, PyTest, and UnitTest.
+
+### Project Types:
+Web applications (financial, medical, e-commerce, educational), websites, and mobile apps.
+
+### Work Authorization:
+Authorized to work in the U.S. with no visa sponsorship required.
 
 ### My CV
 [click to open my CV](https://github.com/mrchv/mrchv/blob/main/assets/Resume_Marichev_QA_Engineer.pdf)
