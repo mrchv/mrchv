@@ -6,16 +6,16 @@
 
 
 ### Skills:
-+ Software Testing: Functional, integration, regression, and smoke testing.
-+ API Testing: Postman, JSON, XML.
-+ Database Testing: SQL (MS SQL Server, MongoDB).
-+ Agile Tools:  Jira, Trello, Confluence, Azure Boards.
-+ Web Technologies: SaaS, web-based applications, CSS, and HTML.
-+ Version Control: Git.
-+ Test Management: TestRail, TestLink.
-+ Performance Testing: JMeter.
-+ Mobile Testing: XCode, Android Studio (both native and hybrid).
-+ Automation Testing: Selenium WebDriver, Python, PyTest, and UnitTest.
++ **Software Testing**: Functional, integration, regression, and smoke testing.
++ **API Testing**: Postman, JSON, XML.
++ **Database Testing**: SQL (MS SQL Server, MongoDB).
++ **Agile Tools**:  Jira, Trello, Confluence, Azure Boards.
++ **Web Technologies**: SaaS, web-based applications, CSS, and HTML.
++ **Version Control**: Git.
++ **Test Management**: TestRail, TestLink.
++ **Performance Testing**: JMeter.
++ **Mobile Testing**: XCode, Android Studio (both native and hybrid).
++ **Automation Testing**: Selenium WebDriver, Python, PyTest, and UnitTest.
 
 ### Experience Highlights:
 + Active participation in daily stand-ups and sprint planning for agile development.
