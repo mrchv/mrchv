@@ -4,6 +4,19 @@
 
 5-years experienced QA Software Engineer with a proven track record in collaborating with cross-functional teams and stakeholders across various locations and time zones. Adept at realistically estimating work efforts considering risks and constraints while working with different development methodologies.Thrives in remote positions with strong time management and excels in multitasking environments with strict deadlines. 
 
+
+### Skills:
++ Software Testing: Functional, integration, regression, and smoke testing.
++ API Testing: Postman, JSON, XML.
++ Database Testing: SQL (MS SQL Server, MongoDB).
++ Agile Tools:  Jira, Trello, Confluence, Azure Boards.
++ Web Technologies: SaaS, web-based applications, CSS, and HTML.
++ Version Control: Git.
++ Test Management: TestRail, TestLink.
++ Performance Testing: JMeter.
++ Mobile Testing: XCode, Android Studio (both native and hybrid).
++ Automation Testing: Selenium WebDriver, Python, PyTest, and UnitTest.
+
 ### Experience Highlights:
 + Active participation in daily stand-ups and sprint planning for agile development.
 + Proficient problem-solving, ensuring meticulous attention to detail for high software quality.
@@ -14,18 +27,6 @@
 + Collaborative issue resolution with development teams, maintaining high-quality standards.
 + Conducted automated smoke and regression testing for robust software quality assurance.
 + Continuous enhancement of QA processes, providing time and cost estimates for projects.
-
-### Skills:
-+ Software Testing: Experience in functional, integration, regression, and smoke testing.
-+ API Testing: Expert in Postman for accurate server response assessment also with handling JSON and XML files.
-+ Database Testing: Skilled in SQL databases (MS SQL Server, MongoDB).
-+ Agile Tools: Familiarity with Jira, Trello, Confluence, and Azure Boards.
-+ Web Technologies: Expertise in SaaS, web-based applications, CSS, and HTML.
-+ Version Control: Experienced in Git.
-+ Test Management: Proficient in TestRail and TestLink.
-+ Performance Testing: Knowledge of JMeter.
-+ Mobile Testing: Familiarity with XCode and Android Studio for both native and hybrid versions.
-+ Automation Testing: Experienced in Selenium WebDriver with Python, PyTest, and UnitTest.
 
 ### Project Types:
 Web applications (financial, medical, e-commerce, educational), websites, and mobile apps.
