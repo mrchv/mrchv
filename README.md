@@ -2,7 +2,11 @@
 
 ### About
 
-5-years experienced QA Software Engineer with a proven track record in collaborating with cross-functional teams and stakeholders across various locations and time zones. Adept at realistically estimating work efforts considering risks and constraints while working with different development methodologies.Thrives in remote positions with strong time management and excels in multitasking environments with strict deadlines. 
+5-years experienced QA Software Engineer with a proven track record in collaborating with cross-functional teams and stakeholders across various locations and time zones and with deep understanding of the SDLC/STLC. 
+
+Adept at realistically estimating work efforts considering risks and constraints while working with different development methodologies (agile, waterfall, scrum). Thrives in remote positions with strong time management and excels in multitasking environments with strict deadlines. 
+
+Looking for a US remote (or on-site/hybrid in Sacramento, CA) QA position at a software development company.
 
 
 ### Skills:
@@ -14,19 +18,21 @@
 + **Version Control**: Git.
 + **Test Management**: TestRail, TestLink.
 + **Performance Testing**: JMeter.
++ **UI Testing**: PixelPerfect, Chrome DevTools, Browserstack.
 + **Mobile Testing**: XCode, Android Studio (both native and hybrid).
 + **Automation Testing**: Selenium WebDriver, Python, PyTest, and UnitTest.
 
 ### Experience Highlights:
-+ Active participation in daily stand-ups and sprint planning for agile development.
-+ Proficient problem-solving, ensuring meticulous attention to detail for high software quality.
-+ Strong organizational and project management skills in varying project complexities.
-+ In-depth understanding of SDLC stages, contributing to comprehensive test plans.
-+ Design and implementation of manual and automated test procedures aligned with product criteria.
-+ Thorough E2E testing execution with detailed analysis and defect reporting.
-+ Collaborative issue resolution with development teams, maintaining high-quality standards.
-+ Conducted automated smoke and regression testing for robust software quality assurance.
-+ Continuous enhancement of QA processes, providing time and cost estimates for projects.
++ thorough E2E testing execution with detailed analysis and defect reporting.
++ design and implementation of manual and automated test procedures aligned with product criteria.
++ in-depth understanding of SDLC stages, contributing to comprehensive test plans.
++ proficient problem-solving, ensuring meticulous attention to detail for high software quality.
++ strong organizational and project management skills in varying project complexities.
++ collaborative issue resolution with development teams, maintaining high-quality standards.
++ active participation in daily stand-ups and sprint planning for agile development.
++ conducted automated smoke and regression testing for robust software quality assurance.
++ continuous enhancement of QA processes, providing time and cost estimates for projects.
+
 
 ### Project Types:
 Web applications (financial, medical, e-commerce, educational), websites, and mobile apps.
