@@ -26,6 +26,7 @@ Looking for a US remote (or on-site/hybrid in Sacramento, CA) QA position at a s
 + thorough E2E testing execution with detailed analysis and defect reporting.
 + design and implementation of manual and automated test procedures aligned with product criteria.
 + in-depth understanding of SDLC stages, contributing to comprehensive test plans.
++ conducted WCAG 2.1 AA accessibility audits for web-projects.
 + proficient problem-solving, ensuring meticulous attention to detail for high software quality.
 + strong organizational and project management skills in varying project complexities.
 + collaborative issue resolution with development teams, maintaining high-quality standards.
