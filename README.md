@@ -6,7 +6,7 @@
 
 Adept at realistically estimating work efforts considering risks and constraints while working with different development methodologies (agile, waterfall, scrum). Thrives in remote positions with strong time management and excels in multitasking environments with strict deadlines. 
 
-Looking for a US remote (or on-site/hybrid in Sacramento, CA) QA position at a software development company.
+Looking for a position as a QA manual tester / QA analyst in any software development company. Currently in Sacramento, California. Ready to discuss relocation to any location in the USA.
 
 
 ### Skills:
